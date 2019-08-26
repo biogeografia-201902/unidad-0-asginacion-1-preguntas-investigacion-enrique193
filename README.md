@@ -9,3 +9,10 @@ Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s deb
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
+¿Como afecta las actividades humanas a las hormigas?
+
+¿Cuales factores afectan la preferencia de ubicacion de los nidos?
+
+¿Cuales ambientes prefieren las hormigas segun su especie?
+
+¿Que efecto tiene el habitad en la abundancia de especies de hormigas y el tamaño de las colonia?
